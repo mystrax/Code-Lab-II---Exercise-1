@@ -1,0 +1,8 @@
+print("Enter three numbers:")
+num1=input("Number 1:")
+num2=input("Number 2:")
+num3=input("Number 3:")
+print("Your numbers in forward order:")
+print("",num1,"\n",num2,"\n",num3)
+print("Your numbers in reverse order:")
+print("",num3,"\n",num2,"\n",num1)
